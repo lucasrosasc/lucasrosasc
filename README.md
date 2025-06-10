@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasroscundev
+- 👋 Hi, I’m @lucasrosasdacunha
 - 📜 I'm a CS student, currently undergrad. Looking to expand my knowledge in tech in a broad manner.
 - 👀 I’m interested in way too many things to list here, such as AI, DevSecOps, low-level coding, the list goes on...😴
 - I'm looking to dive deeper into a few things so I can get a job. (Yes, I know, it might take a while...)
