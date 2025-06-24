@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasrosasc&label=Profile%20views&color=0e75b6&style=flat" alt="lucasrosasc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@lucas_roscun" target="blank"><img src="https://img.shields.io/twitter/follow/@lucas_roscun?logo=twitter&style=for-the-badge" alt="@lucas_roscun" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@lucas_roscun" target="blank"><img src="https://img.shields.io/twitter/follow/lucas_roscun?logo=twitter&style=for-the-badge" alt="@lucas_roscun" /></a> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://lucas-rc-portfolio.vercel.app/)
 
